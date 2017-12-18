@@ -9,7 +9,7 @@ import os.path
 # ------------
 
 _name            = 'jpl.mcl.ldap.sync'
-_version         = '0.0.0'
+_version         = '0.0.1'
 _description     = "Synchronizes MCL's Directory via LDAP"
 _author          = 'Sean Kelly'
 _authorEmail     = 'sean.kelly@jpl.nasa.gov'
